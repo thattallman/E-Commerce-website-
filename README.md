@@ -1,6 +1,8 @@
 # Ecommerce (React) Coding Assessment
 by Rachit Saxena - 20BCE2322
 
+Video link - https://drive.google.com/drive/folders/1OXr-z5ISLT8UGj3CJPkdgfYOSWFO2pfz?usp=share_link
+
 ##setting up the project 
 
 - `npm install` - To install the dependencies
