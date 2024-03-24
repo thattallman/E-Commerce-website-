@@ -1,4 +1,4 @@
-# Ecommerce
+# Shirtify
 Video link - https://drive.google.com/drive/folders/1OXr-z5ISLT8UGj3CJPkdgfYOSWFO2pfz?usp=share_link
 
 ##setting up the project 
